@@ -51,5 +51,5 @@ pytesseract
    cd productivity-toolkit
    pip install -r requirements.txt
     pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-    python name_of_script(Main).py
+    python toolkiter.py
 
